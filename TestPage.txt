@@ -1,0 +1,2 @@
+This is a sample Page.
+To be noted, the filename 'TestPage' is case sensitive in the url.
