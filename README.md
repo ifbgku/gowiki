@@ -7,7 +7,7 @@ Golang webapp sandbox at `https://golang.org/doc/articles/wiki/`
 $ go build -o ./build/wiki wiki.go
 $ ./build/wiki
 ```
-Visit test webapp at `http://localhost:8080/view/test`
+Visit test webapp at `http://localhost:8080/view/test` or `http://localhost:8080/view/ANewPage`
 
 ## Memo
 
